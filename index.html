@@ -81,8 +81,8 @@
         </section>
         <section id="contact" class="contact">
             <h2>Kontak</h2>
-            <p>Website: <a href="https://vdganh.my.id" target="_blank">vdganh.my.id</a></p>
-            <p>Email: <a href="mailto:vdganh.my.od@gmail.com">vdganh.my.id</a></p>
+            <p>Website: <a href="https://vdganhmyid.github.io/Portofolio/" target="_blank">vdganh.my.id</a></p>
+            <p>Email: <a href="mailto:vdganh.my.id@gmail.com">vdganh.my.id</a></p>
         </section>
     </main>
     <footer>
