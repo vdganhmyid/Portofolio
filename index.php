@@ -18,7 +18,7 @@
             <ul class="nav-list" id="nav-list">
                 <li><a href="#about">Tentang Saya</a></li>
                 <li><a href="#projects">Proyek</a></li>
-                <li><a href="https://vdganh.my.id/htdocs/">Demo Link</a></li>
+                <li><a href="https://vdganh.my.id/htdocs/"></a></li>
                 <li><a href="#contact">Kontak</a></li>
             </ul>
         </nav>
@@ -31,7 +31,8 @@
     <main>
         <section id="about" class="about">
             <h2>Tentang Saya</h2>
-            <p>Halo! Saya Muhammad Fadil Anggara, seorang web developer profesional sekaligus seorang cyber security. Saya suka menciptakan situs web yang interaktif dan menarik. Anda juga mungkin mengenal saya sebagai Vdganh atau Anggara.</p>
+            <p>Halo! Saya Muhammad Fadil Anggara, seorang web developer profesional sekaligus seorang cyber security. Saya suka menciptakan situs web yang interaktif dan menarik. Anda juga mungkin mengenal saya sebagai Vdganh atau Anggara. Hubungi saya jika ingin membuat website atau ingin mengecek keamanan website mu dengan harga terjangkau ! Hubungi <p>Email: <a href="mailto:vdganh.my.id@gmail.com">vdganh.my.id@gmail.com</a></p>
+ </p>
         </section>
         <section id="projects" class="projects">
             <h2>Proyek</h2>
